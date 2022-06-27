@@ -71,6 +71,8 @@ Program and UI documentation: [spl-governance-docs](https://docs.realms.today)
 
 Discord server: [spl-governance-discord](https://discord.gg/VsPbrK2hJk)
 
+Governance Addin Api: [addin-api](./addin-api/README.md)
+
 ## Program Accounts
 
 The diagram belows shows an illustrative configuration of the program accounts when used to control upgrades
